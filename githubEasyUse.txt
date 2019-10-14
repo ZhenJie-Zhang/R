@@ -1,0 +1,12 @@
+﻿open the software called "git bash"
+
+# connect to github and clone the file data
+git clone https://github.com/YuHsuanLin/riii.git
+
+# R language course folder path
+cd e:/R/riii/
+
+# update the file data
+# git pull (RemoteName=orign) (BranchName=master) 
+git pull origin master
+
